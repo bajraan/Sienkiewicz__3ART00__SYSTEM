@@ -7,3 +7,6 @@
 [submodule "Sienkiewicz_Enclosure"]
 	path = Sienkiewicz_Enclosure
 	url = https://github.com/bajraan/Sienkiewicz_Enclosure
+[submodule "Sienkiewicz_FW"]
+	path = Sienkiewicz_FW
+	url = https://github.com/bajraan/Sienkiewicz_FW
