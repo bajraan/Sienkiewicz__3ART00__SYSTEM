@@ -1,0 +1,6 @@
+[submodule "Sienkiewicz_TOUCH"]
+	path = Sienkiewicz_TOUCH
+	url = https://github.com/bajraan/Sienkiewicz_TOUCH
+[submodule "Sienkiewicz_LED"]
+	path = Sienkiewicz_LED
+	url = https://github.com/bajraan/Sienkiewicz_LED
