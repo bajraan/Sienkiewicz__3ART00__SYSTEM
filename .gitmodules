@@ -1,12 +1,16 @@
 [submodule "Sienkiewicz_TOUCH"]
 	path = Sienkiewicz_TOUCH
 	url = https://github.com/bajraan/Sienkiewicz_TOUCH
+	branch = main
 [submodule "Sienkiewicz_LED"]
 	path = Sienkiewicz_LED
 	url = https://github.com/bajraan/Sienkiewicz_LED
+	branch = main
 [submodule "Sienkiewicz_Enclosure"]
 	path = Sienkiewicz_Enclosure
 	url = https://github.com/bajraan/Sienkiewicz_Enclosure
+	branch = main
 [submodule "Sienkiewicz_FW"]
 	path = Sienkiewicz_FW
 	url = https://github.com/bajraan/Sienkiewicz_FW
+	branch = main
