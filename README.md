@@ -1,7 +1,6 @@
 <!-- Begin README -->
 
 <div align="center">
-    <img src="05_Inkscape\Title.png"/>
     <img src="Flyer.png"/>
 </div>
 
